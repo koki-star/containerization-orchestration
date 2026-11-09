@@ -1,0 +1,10 @@
+{
+  "name": "containerization-orchestration",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Small Node.js web app for the containerization and orchestration assignment",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
